@@ -1,9 +1,8 @@
 ### Hi there 👋,I'm Yangbingxue.
+This is the place where i opensource stuff and break things🌸,You can contact me here.
 - 🔭 I’m currently an undergraduate student at Nankai University.
+- 🧭 I'm currently learning ![人工智能](https://img.shields.io/badge/Course-AI-yellowgreen)  ![并行程序设计](https://img.shields.io/badge/Course-parallel——programming-blue)
 - 📫 How to reach me: 2110508@mail.nankai.edu.cn
   
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Molotovgirl1&theme=dark&layout=compact)
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Molotovgirl1&show_icons=true&theme=dark&count_private=true)
-
 
